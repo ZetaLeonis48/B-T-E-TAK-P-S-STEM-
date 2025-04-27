@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BÜTÇE TAKİP SİSTEMİ", "BÜTÇE TAKİP SİSTEMİ\BÜTÇE TAKİP SİSTEMİ.csproj", "{CA747E8A-5FC1-4BAC-9A00-354D0083DC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA747E8A-5FC1-4BAC-9A00-354D0083DC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA747E8A-5FC1-4BAC-9A00-354D0083DC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA747E8A-5FC1-4BAC-9A00-354D0083DC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA747E8A-5FC1-4BAC-9A00-354D0083DC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12ADE5CC-8D84-4966-A269-152F23E55764}
+	EndGlobalSection
+EndGlobal
